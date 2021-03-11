@@ -1,1 +1,1 @@
-# cv
+# basic-cv-workshop
